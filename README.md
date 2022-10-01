@@ -1,2 +1,2 @@
-![p1](p1.png)
-![p2](p2.png)
+![pt1](pt1.png)
+![pt2](pt2.png)
